@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hey! I'm Mag 👋
 
-<!--
-**Magnogen/Magnogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😔 I have so many projects on the go, it's hard to keep count.
 
-Here are some ideas to get you started:
+🔍 You can find most of them here, on my GitHub account!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I aim to bring people a little more happiness, whether that be with music, or useful tools that you guys can use in your projects - so please do take a look around and see what you can <s>steal</s> <i>utilise.</i> Who knows? I might even give you a bit of inspiration yourself!
+
+Here is some of the thingies that I've been working on:
+
+## Programming Languages
+
+### Avoweliu
+
+An Esoteric Programming Language who's only commands are the vowels in the alphabet: A, E, I, O & U (and Y, but we don't talk about her)
+
+### HeLiiLii
+
+Another Esoteric Programming Language that <i>looks</i> like Mathematics, but is actually closer to Literature and Chemistry...
+
+### Carbogen
+
+A Programming Language that makes use of scopes to do a bunch of interesting things, nowhere near finished lol
+
+### VidSeq
+
+A Language to aid with sequencing youtube videos, similar to coding a PowerPoint presentation, but with more control
+
+### And a whole host of other things
+
+## Links
+
+YouTube: <a href="https://www.youtube.com/channel/UCosxKKKPJk4aZlwF_EFe2pw">Magnogen - YouTube</a>
+
+Reddit: <a href="https://www.reddit.com/user/MagnogenOnTheMoon">/u/MagnogenOnTheMoon</a>
