@@ -14,22 +14,34 @@ Here is some of the thingies that I've been working on:
 
 An Esoteric Programming Language who's only commands are the vowels in the alphabet: A, E, I, O & U (and Y, but we don't talk about her)
 
+<a>Documentation</a> (Unavailable at the moment)<br>
+<a href="https://ide.magnogen.net/avoweliu/">Playground</a> (Incomplete: Syntax Highlighting is pretty it for now)
+
 ### HeLiiLii
 
 Another Esoteric Programming Language that <i>looks</i> like Mathematics, but is actually closer to Literature and Chemistry...
 
+<a>Documentation</a> (Unavailable at the moment)<br>
+<a>Playground</a> (Unavailable for now)<br>
+<a href="https://esolangs.org/wiki/HeLiiLii">Esolang Wiki</a>
+
 ### Carbogen
 
 A Programming Language that makes use of scopes to do a bunch of interesting things, nowhere near finished lol
+<a>Documentation</a> (Unavailable at the moment)<br>
+<a>Playground</a> (Unavailable for now)
 
 ### VidSeq
 
 A Language to aid with sequencing youtube videos, similar to coding a PowerPoint presentation, but with more control
 
+<a>Documentation</a> (Unavailable at the moment)<br>
+<a>Playground</a> (Unavailable for now)
+
 ### And a whole host of other things
 
 ## Links
 
-YouTube: <a href="https://www.youtube.com/channel/UCosxKKKPJk4aZlwF_EFe2pw">Magnogen - YouTube</a>
-
-Reddit: <a href="https://www.reddit.com/user/MagnogenOnTheMoon">/u/MagnogenOnTheMoon</a>
+YouTube: <a href="https://www.youtube.com/channel/UCosxKKKPJk4aZlwF_EFe2pw">Magnogen - YouTube</a><br>
+Reddit: <a href="https://www.reddit.com/user/MagnogenOnTheMoon">/u/MagnogenOnTheMoon</a><br>
+Esolangs.org: <a href="https://esolangs.org/wiki/User:Magnogen">User:Magnogen</a>
