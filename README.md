@@ -11,6 +11,10 @@ Here is some of the thingies that I've been working on:
 ## Projects
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
+### [⚛️ Elements](https://github.com/Magnogen/Elements)
+
+A library of useful Javascript functions and variables that I use for most of my projects. Inspired by [Habitat](https://github.com/l2wilson94/Habitat). 
+
 ### 🎵 Music & YouTube
 
 Most of my current content lol. I plan on doing proper YouTube videos in the future - documenting my projects, and even some Minecraft-related content too!
