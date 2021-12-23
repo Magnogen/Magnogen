@@ -15,7 +15,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 A library of useful Javascript functions and variables that I use for most of my projects. Inspired by [Habitat](https://github.com/l2wilson94/Habitat). 
 
-### 🎵 Music & YouTube
+### [🎵 Music & YouTube](https://github.com/Magnogen/OpenMusic)
 
 Most of my current content lol. I plan on doing proper YouTube videos in the future - documenting my projects, and even some Minecraft-related content too!
 
@@ -41,7 +41,7 @@ A Programming Language that makes use of scopes to do a bunch of interesting thi
 <a>Documentation</a> (Unavailable at the moment)<br>
 <a>Playground</a> (Unavailable for now)
 
-### 📽 VidSeq
+### [📽 VidSeq](https://github.com/Magnogen/VidSeq)
 
 A Language to aid with sequencing youtube videos, similar to coding a PowerPoint presentation, but with more control
 
