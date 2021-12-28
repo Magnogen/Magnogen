@@ -54,5 +54,5 @@ A Language to aid with sequencing youtube videos, similar to coding a PowerPoint
 
 YouTube: <a href="https://www.youtube.com/channel/UCosxKKKPJk4aZlwF_EFe2pw">Magnogen - YouTube</a><br>
 Reddit: <a href="https://www.reddit.com/user/MagnogenOnTheMoon">/u/MagnogenOnTheMoon</a><br>
-Twitter: <a href="https://twitter.com/Magnogen1">@Magnogen1</a><br>
+Twitter: <a href="https://twitter.com/Magnog3n">@Magnog3n</a><br>
 Esolangs.org: <a href="https://esolangs.org/wiki/User:Magnogen">User:Magnogen</a>
