@@ -9,7 +9,12 @@ I aim to bring people a little more happiness, whether that be with music, or us
 Here is some of the thingies that I've been working on:
 
 ## Projects
+
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+### [🌐 Weber](https://github.com/Magnogen/Weber)
+
+A way to make websites using a slightly different method, compiles to weblangs. 
 
 ### [⚛️ Elements](https://github.com/Magnogen/Elements)
 
