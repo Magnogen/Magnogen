@@ -24,6 +24,13 @@ A library of useful Javascript functions and variables that I use for most of my
 
 Most of my current content lol. I plan on doing proper YouTube videos in the future - documenting my projects, and even some Minecraft-related content too!
 
+### [📽 VidSeq](https://github.com/Magnogen/VidSeq)
+
+A Language to aid with sequencing youtube videos, similar to coding a PowerPoint presentation, but with more control
+
+<a>Documentation</a> (Unavailable at the moment)<br>
+<a>Playground</a> (Unavailable for now)
+
 ### 🔤 Avoweliu
 
 An Esoteric Programming Language who's only commands are the vowels in the alphabet: A, E, I, O & U (and Y, but we don't talk about her)
@@ -42,13 +49,6 @@ Another Esoteric Programming Language that <i>looks</i> like Mathematics, but is
 ### ⚛ Carbogen
 
 A Programming Language that makes use of scopes to do a bunch of interesting things, nowhere near finished lol
-
-<a>Documentation</a> (Unavailable at the moment)<br>
-<a>Playground</a> (Unavailable for now)
-
-### [📽 VidSeq](https://github.com/Magnogen/VidSeq)
-
-A Language to aid with sequencing youtube videos, similar to coding a PowerPoint presentation, but with more control
 
 <a>Documentation</a> (Unavailable at the moment)<br>
 <a>Playground</a> (Unavailable for now)
