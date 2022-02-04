@@ -24,6 +24,10 @@ A library of useful Javascript functions and variables that I use for most of my
 
 Most of my current content lol. I plan on doing proper YouTube videos in the future - documenting my projects, and even some Minecraft-related content too!
 
+### [🖼️ NoiPla & NoiPro](https://github.com/Magnogen/noi)
+
+Some image generation tools, they're canonically siblings. A GUI-based one (the sister), and a Programming Language (the brother). You can make images using noise (Perlin, Simplex, Voronoi, etc), and dealing with colours and positions and such - takes inspiration from GLSL.
+
 ### [📽 VidSeq](https://github.com/Magnogen/VidSeq)
 
 A Language to aid with sequencing youtube videos, similar to coding a PowerPoint presentation, but with more control
