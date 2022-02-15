@@ -10,8 +10,6 @@ Here is some of the thingies that I've been working on:
 
 ## Projects
 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-
 ### [🌐 Weber](https://github.com/Magnogen/Weber)
 
 A way to make websites using a slightly different method, compiles to weblangs. 
