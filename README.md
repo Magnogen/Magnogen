@@ -48,7 +48,7 @@ Another Esoteric Programming Language that <i>looks</i> like Mathematics, but is
 <a>Playground</a> (Unavailable for now)<br>
 <a href="https://esolangs.org/wiki/HeLiiLii">Esolang Wiki</a>
 
-### ⚛ Carbogen
+### [⚛ Carbogen](https://github.com/Magnogen/Carbogen)
 
 A Programming Language that makes use of scopes to do a bunch of interesting things, nowhere near finished lol
 
