@@ -12,7 +12,7 @@ Here is some of the thingies that I've been working on:
 
 ### [🌐 Weber](https://github.com/Magnogen/Weber)
 
-A way to make websites using a slightly different method, compiles to weblangs. 
+A way to make websites using languages like Markdown and JSON, compiles to weblangs. 
 
 ### [⚛️ Elements](https://github.com/Magnogen/Elements)
 
