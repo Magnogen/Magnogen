@@ -1,69 +1,39 @@
-# Hey! I'm Mag 👋
+# 👋 Hey! I'm Mag
+##### 🔗 Links
+| Website      | [Magnogen.net](https://magnogen.net) |
+| :----------- | :- | 
+| YouTube      | [Magnogen - YouTube](https://www.youtube.com/channel/UCosxKKKPJk4aZlwF_EFe2pw) |
+| Twitter      | [@Magnog3n](https://twitter.com/Magnog3n) |
+| Reddit       | [/u/MagnogenOnTheMoon](https://www.reddit.com/user/MagnogenOnTheMoon) |
+| Esolangs.org | [User:Magnogen](https://esolangs.org/wiki/User:Magnogen) |
 
-😔 I have so many projects on the go, it's hard to keep count.
-
-🔍 You can find most of them here, on my GitHub account!
-
-I aim to bring people a little more happiness, whether that be with music, or useful tools that you guys can use in your projects - so please do take a look around and see what you can <s>steal</s> <i>utilise.</i> Who knows? I might even give you a bit of inspiration yourself!
-
-Here is some of the thingies that I've been working on:
+I aim to bring people a little more happiness, whether that be with music, artwork, or useful tools that you guys can use in your projects.
+With that in mind, please take a look around and see what you can ~steal~ _utilise._
+Who knows? These projects might even give you a bit of inspiration for yourself!
 
 ## Projects
+
+Here is some of my projects that I've been working on: 
+
+### [⚛️ Elements](https://github.com/Magnogen/Elements)
+
+A library of useful Javascript functions and variables that I use for most of my projects. Inspired by [Habitat](https://github.com/l2wilson94/Habitat).  
 
 ### [🌐 Weber](https://github.com/Magnogen/Weber)
 
 A way to make websites using languages like Markdown and JSON, compiles to weblangs. 
 
-### [⚛️ Elements](https://github.com/Magnogen/Elements)
+### [📺 YouTube](https://www.youtube.com/channel/UCosxKKKPJk4aZlwF_EFe2pw)
 
-A library of useful Javascript functions and variables that I use for most of my projects. Inspired by [Habitat](https://github.com/l2wilson94/Habitat). 
+There's a bunch of stuff on here, from music videos, to fractals to video games.
 
-### [🎵 Music & YouTube](https://github.com/Magnogen/OpenMusic)
-
-Most of my current content lol. I plan on doing proper YouTube videos in the future - documenting my projects, and even some Minecraft-related content too!
-
-### ✏️ Gentle
+### [✏️ Gentle](https://github.com/Magnogen/Gentle)
 
 A C-like programming language who's sole purpose is to create Generative Art.
 
-### [🖼️ NoiPla & NoiPro](https://github.com/Magnogen/noi)
-
-Some image generation tools, they're canonically siblings. A GUI-based one (the sister), and a Programming Language (the brother). You can make images using noise (Perlin, Simplex, Voronoi, etc), and dealing with colours and positions and such - takes inspiration from GLSL.
-
-### [📽 VidSeq](https://github.com/Magnogen/VidSeq)
-
-A Language to aid with sequencing youtube videos, similar to coding a PowerPoint presentation, but with more control
-
-<a>Documentation</a> (Unavailable at the moment)<br>
-<a>Playground</a> (Unavailable for now)
-
-### 🔤 Avoweliu
-
-An Esoteric Programming Language who's only commands are the vowels in the alphabet: A, E, I, O & U (and Y, but we don't talk about her)
-
-<a>Documentation</a> (Unavailable at the moment)<br>
-<a href="https://ide.magnogen.net/avoweliu/">Playground</a> (Incomplete: Syntax Highlighting is pretty much it so far)
-
-### 🧪 HeLiiLii
-
-Another Esoteric Programming Language that <i>looks</i> like Mathematics, but is actually closer to Literature and Chemistry...
-
-<a>Documentation</a> (Unavailable at the moment)<br>
-<a>Playground</a> (Unavailable for now)<br>
-<a href="https://esolangs.org/wiki/HeLiiLii">Esolang Wiki</a>
-
 ### [⚛ Carbogen](https://github.com/Magnogen/Carbogen)
 
-A Programming Language that makes use of scopes to do a bunch of interesting things, nowhere near finished lol
+A Programming Language that makes use of bubbles (scopes) to do a bunch of interesting things.
 
-<a>Documentation</a> (Unavailable at the moment)<br>
-<a>Playground</a> (Unavailable for now)
-
-### And a whole host of other things
-
-## 🔗 Links
-
-YouTube: <a href="https://www.youtube.com/channel/UCosxKKKPJk4aZlwF_EFe2pw">Magnogen - YouTube</a><br>
-Reddit: <a href="https://www.reddit.com/user/MagnogenOnTheMoon">/u/MagnogenOnTheMoon</a><br>
-Twitter: <a href="https://twitter.com/Magnog3n">@Magnog3n</a><br>
-Esolangs.org: <a href="https://esolangs.org/wiki/User:Magnogen">User:Magnogen</a>
+I have quite a few other projects here and there.
+Why not check out [my Website](https://magnogen.net), or just look through my repos!
