@@ -18,11 +18,11 @@ Here is some of my projects that I've been working on:
 
 ### [⚛️ Elements](https://github.com/Magnogen/Elements)
 
-A library of useful Javascript functions and variables that I use for most of my projects. Inspired by [Habitat](https://github.com/l2wilson94/Habitat).  
+A library of useful Javascript functions and variables that I use for most of my projects.
 
-### [🌐 Weber](https://github.com/Magnogen/Weber)
+### [🌈 Gr**ai**dients](https://magnogen.net/Graidients)
 
-A way to make websites using languages like Markdown and JSON, compiles to weblangs. 
+Generate gradients and patterns using Neural Networks.
 
 ### [📺 YouTube](https://www.youtube.com/channel/UCosxKKKPJk4aZlwF_EFe2pw)
 
@@ -31,10 +31,6 @@ There's a bunch of stuff on here, from music videos, to fractals to video games.
 ### [✏️ Gentle](https://github.com/Magnogen/Gentle)
 
 A C-like programming language who's sole purpose is to create Generative Art.
-
-### [⚛ Carbogen](https://github.com/Magnogen/Carbogen)
-
-A Programming Language that makes use of bubbles (scopes) to do a bunch of interesting things.
 
 I have quite a few other projects here and there.
 Why not check out [my Website](https://magnogen.net), or just look through my repos!
