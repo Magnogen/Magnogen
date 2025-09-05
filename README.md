@@ -3,8 +3,6 @@
 | Website      | [Magnogen.net](https://magnogen.net) |
 | :----------- | :- | 
 | YouTube      | [Magnogen - YouTube](https://www.youtube.com/channel/UCosxKKKPJk4aZlwF_EFe2pw) |
-| Twitter      | [@Magnog3n](https://twitter.com/Magnog3n) |
-| Reddit       | [/u/MagnogenOnTheMoon](https://www.reddit.com/user/MagnogenOnTheMoon) |
 | Esolangs.org | [User:Magnogen](https://esolangs.org/wiki/User:Magnogen) |
 
 I aim to bring people a little more happiness, whether that be with music, artwork, or useful tools that you guys can use in your projects.
